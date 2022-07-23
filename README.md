@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-cezar&show_icons=true&locale=en&layout=compact" alt="carlos-cezar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-cezar&show_icons=true&locale=en" alt="carlos-cezar" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=carlos-cezar&show_icons=true&locale=en" alt="carlos-cezar" /></p>
