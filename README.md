@@ -12,4 +12,4 @@
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carlos-cezar&show_icons=true&locale=en" alt="carlos-cezar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-cezar&show_icons=true&locale=en&layout=compact" alt="carlos-cezar" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-cezar&show_icons=true&locale=en&layout=compact" alt="carlos-cezar" /></p>
